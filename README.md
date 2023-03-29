@@ -12,4 +12,4 @@ URL https://github.com/brody424/TIL/tree/main/
 ## Apple Article 
 
 ### Xcode Cloude
-- [Xcode Cloud를 통한 지속적 통합 및 제공 정보](https://github.com/brody424/TIL/tree/main/ios/About_continuous_integration_and_delivery_with_Xcode_Cloud.md)
+- [Xcode Cloud를 통한 지속적 통합 및 제공 정보](https://github.com/brody424/TIL/tree/main/ios/documentation/About_continuous_integration_and_delivery_with_Xcode_Cloud.md)

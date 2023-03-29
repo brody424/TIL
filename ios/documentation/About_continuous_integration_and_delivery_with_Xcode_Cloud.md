@@ -1,27 +1,30 @@
-# About continuous integration and delivery with Xcode Cloud
-Learn how continuous integration and delivery with Xcode Cloud helps you create high-quality apps and frameworks.
+# Xcode Cloud를 통한 지속적 통합 및 배포 정보
+### Xcode Cloud를 사용한 지속적 통합 및 배포가 어떻게 고품질의 앱과 프레임워크를 만드는데 도움이 되는지 배울수 있습니다.
 
+
+<br>
+<br>
 
 ## [Overview](https://developer.apple.com/documentation/xcode/about-continuous-integration-and-delivery-with-xcode-cloud#Overview)
 
-Xcode consists of a suite of tools you use to build, test, and release apps and frameworks for Apple platforms. When you add features and support more devices and platforms, your app or framework and its codebase grow in complexity, making it harder to ensure its quality. With Xcode Cloud, you can adopt _continuous integration and delivery_ (CI/CD), a standard practice to monitor, ensure, and improve the quality of your apps and frameworks.
+Xocde는 Apple 플랫폼의 앱 또는 프레임워크를 빌드, 테스트, 릴리즈 하는데 사용하는 도구모음으로 구성됩니다.  
+기능을 추가하고 더 많은 디바이스와 플랫폼을 지원하면 앱 또는 프레임워크와 코드베이스의 복잡성이 증가하여 품질을 보장하기가 더 어려워 집니다. 
+Xcode Cloud를 사용하면 앱과 프레임워크의 품질을 모니터링, 보장, 개선하는 표준방식인 지속적인 통합 및 배포(CI/CD)를 채택할 수 있습니다. 
 
-Xcode Cloud is a CI/CD system that uses Git for source control and provides you with an integrated system that ensures the quality and stability of your codebase. It also helps you publish apps efficiently. By combining [Xcode](https://developer.apple.com/xcode/) with Apple’s cloud infrastructure for building and testing your code — along with [TestFlight](https://developer.apple.com/testflight/) and [App Store Connect](https://appstoreconnect.apple.com/) — Xcode Cloud makes it easy for you to:
+<br>
 
--   Build and test your code automatically.
-    
--   Test your app on Apple devices in Simulator automatically and frequently.
-    
--   Receive notifications from Xcode Cloud to identify errors before they become serious issues.
-    
--   Distribute new versions of your app to team members and testers with TestFlight.
-    
--   Making new versions of your app available for app review before publishing them in the App Store.
-    
--   Develop your software collaboratively using Xcode and Apple’s cloud infrastructure.
+Xcode Cloud는 소스 관리를 위해 Git을 사용하는 CI/CD 시스템으로 코드베이스의 품질과 안정성을 보장하는 통합 시스템을 제공합니다.  
+또한 앱을 효율적으로 개시(publish) 하는데 도움을 줍니다.  
+Xcode Cloud는 [Xcode](https://developer.apple.com/xcode/)와 Apple 클라우드 인프라와 결합하여 코드를 빌드하고, 테스트하며 [TestFlight](https://developer.apple.com/testflight/) 와 [App Store Connect](https://appstoreconnect.apple.com/)를 함께 사용함으로써 앱을 쉽게 배포할 수 있게 해줍니다. 
+-   코드를 자동으로 빌드하고 테스트 합니다.
+-   시뮬레이터에서 Apple 기기의 앱을 자동으로 자주 테스트 합니다.
+-   Xcode Cloud에서 알림을 받아 심각한 문제가 되기 전에 오류를 식별합니다.
+-   TestFlight를 사용하여 팀 구성원이나 테스터에게 새로운 버전의 앱을 배포합니다.
+-   App Store에 게시하기 전에 새 버전의 앱을 검토에 사용할수 있도록 앱을 빌드합니다.(?)
+-   Xcode와 Apple 클라우드 인프라를 사용하여 공동으로 소프트웨어를 개발합니다. (여러 개발자가 Xcode Cloud를 통해 동시 작업이 가능하며, Apple 클라우드 인프라를 활용하여 소프트웨어를 개발하고 관리합니다.)
     
 
-![A figure that shows the iterative continuous integration and delivery process that’s made of building, testing, distributing, and gathering feedback to fix issues and verify a change.](https://docs-assets.developer.apple.com/published/bca93b3fc3895d146eeb3773171a9c1f/About-Continuous-Integration-and-Delivery-with-Xcode-Cloud-1@2x.png)
+![문제를 해결하고 변경 사항을 확인하기 위해 피드백을 구축,테스트,배포 및 수집하는 반복적인 통합 및 배포 프로세스를 보여주는 그림입니다.](https://docs-assets.developer.apple.com/published/bca93b3fc3895d146eeb3773171a9c1f/About-Continuous-Integration-and-Delivery-with-Xcode-Cloud-1@2x.png)
 
 You don’t need to introduce every aspect of continuous integration and delivery at once. Instead, take a slow but steady approach and start by using [Git](https://git-scm.com/) for managing your project’s source code. After you’re comfortable with Git’s workflows and processes, configure your project to use Xcode Cloud at the most basic level — for continually building and testing your projects. As you become more familiar with how Xcode Cloud works, you can start to take advantage of its CD features like delivering test builds with TestFlight.
 

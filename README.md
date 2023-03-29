@@ -7,3 +7,9 @@ URL https://github.com/brody424/TIL/tree/main/
 
 * iOS
     * [CI/CD - 1 : Xcode cloud vs fastlane](https://github.com/brody424/TIL/tree/main/ios/cicd_1.md)
+
+---
+## Apple Article 
+
+### Xcode Cloude
+- [Xcode Cloud를 통한 지속적 통합 및 제공 정보](https://github.com/brody424/TIL/tree/main/ios/About_continuous_integration_and_delivery_with_Xcode_Cloud.md)

@@ -7,6 +7,7 @@ URL https://github.com/brody424/TIL/tree/main/
 
 * iOS
     * [CI/CD - 1 : Xcode cloud vs fastlane](https://github.com/brody424/TIL/tree/main/ios/cicd_1.md)
+    * [CI/CD - 2 : Xcode Cloud 적용 후기](https://github.com/brody424/TIL/tree/main/ios/cicd_2.md)
     * [Static Library vs Dynamic Library](https://github.com/brody424/TIL/tree/main/ios/til/static_library_dynamic_library.md)
 ---
 ## Apple Article 

@@ -9,6 +9,7 @@ URL https://github.com/brody424/TIL/tree/main/
     * [CI/CD - 1 : Xcode cloud vs fastlane](https://github.com/brody424/TIL/tree/main/ios/cicd_1.md)
     * [CI/CD - 2 : Xcode Cloud 적용 후기](https://github.com/brody424/TIL/tree/main/ios/cicd_2.md)
     * [Static Library vs Dynamic Library](https://github.com/brody424/TIL/tree/main/ios/til/static_library_dynamic_library.md)
+    * [iOS MVVM + RxSwift 사용 시  Input Output 패턴에 대한 생각](https://github.com/brody424/TIL/tree/main/ios/til/mvvm_input_output_0.md)
 ---
 ## Apple Article 
 

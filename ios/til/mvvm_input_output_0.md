@@ -46,7 +46,30 @@ class LoginViewModel {
 
 만약 QuizListVC, QuizDetailVC라는 화면이 있고 QuizViewModel에서 관리한다고 생각해보면 Input, Output을 사용해서 코드가 깔끔해지는 방법이 당장은 생각이 나지 않는다.
 
-그래서 ViewModel과 View의 관계가 1:1로 사용이 가능하면 Input, Output을 사용하고
+<br>
+
+## init 상황에서 input을 모른다면..?
+카카오톡 로그인을 눌렀을 때 카카오톡 로그인 화면을 띄우는건 View에서 할일이다.   
+그리고 화면을 띄우는 코드 클로져에서 token값을 주고 있다.  
+이럴때 token을 viewmodel에 넘기고 싶을 때 위의 Input에 값을 어떻게 전달해야 할까?  
+ViewController에서 Observable을 갖고 있는거는 너무 비효율적이라고 생각한다.
+
+``` swift
+    class ViewModel {
+        struct Input {
+            let guestLogin = PublishRelay<Void>()
+            let kakaoLogin = PublishRelay<String>(
+        }
+    ... 
+
+    let input = Input()
+    }
+```
+위의 형태로 input, output만 나눠서 사용하려고 한다.
+
+
+
+ViewModel과 View의 관계가 1:1로 사용을 한다면 위의 코드처럼 사용할 수 있지만  
 1:N, N:N의 관계에서는 예전처럼 직접 호출하고 View에서 ViewModel을 바인딩해서 사용하면서 좋은 방법을 찾아보려고 한다.
 
 

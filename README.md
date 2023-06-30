@@ -17,7 +17,7 @@ URL https://github.com/brody424/TIL/tree/main/
     * [iOS MVVM + RxSwift 사용 시  Input Output 패턴에 대한 생각](https://github.com/brody424/TIL/tree/main/ios/til/mvvm_input_output_0.md)
 
 * 오류 수정
-    * [Xcode 14.3이상 PhaseScriptExecution [CP]\ Embed\ Pods\ Frameworks 아카이브 에러]()
+    * [Xcode 14.3이상 PhaseScriptExecution [CP]\ Embed\ Pods\ Frameworks 아카이브 에러](https://github.com/brody424/TIL/blob/main/ios/error/xcode_14_3_error.md)
 ---
 ## Apple Article 
 

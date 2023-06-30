@@ -2,6 +2,7 @@
 * 가볍게 내가 공부한 내용을 정리해보자.
 * 블로그 포스팅은 검증을 해야해서 시간이 오래 걸리기 때문에 TIL 시작
 * 어느정도 검증이 된거 같다면 블로그에 올려도 좋을것 같다.
+* 블로그에 쓰려면 검증해야 되는데 피로감이 크니까 그냥 끄적대보자!
 
 URL https://github.com/brody424/TIL/tree/main/
 
@@ -9,10 +10,14 @@ URL https://github.com/brody424/TIL/tree/main/
     * [면접사전 1차 개발 회고](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary_1.md)
 
 * iOS
+    * [WWDC 2023 찍먹]()
     * [CI/CD - 1 : Xcode cloud vs fastlane](https://github.com/brody424/TIL/tree/main/ios/cicd_1.md)
     * [CI/CD - 2 : Xcode Cloud 적용 후기](https://github.com/brody424/TIL/tree/main/ios/cicd_2.md)
     * [Static Library vs Dynamic Library](https://github.com/brody424/TIL/tree/main/ios/til/static_library_dynamic_library.md)
     * [iOS MVVM + RxSwift 사용 시  Input Output 패턴에 대한 생각](https://github.com/brody424/TIL/tree/main/ios/til/mvvm_input_output_0.md)
+
+* 오류 수정
+    * [Xcode 14.3이상 PhaseScriptExecution [CP]\ Embed\ Pods\ Frameworks 아카이브 에러]()
 ---
 ## Apple Article 
 

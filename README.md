@@ -6,7 +6,7 @@
 URL https://github.com/brody424/TIL/tree/main/
 
 * 사이드 프로젝트  
-    * [면접사전 1차 개발 회고](https://github.com/brody424/TIL/tree/main/sideproject/interview_dictionary_1.md)
+    * [면접사전 1차 개발 회고](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary_1.md)
 
 * iOS
     * [CI/CD - 1 : Xcode cloud vs fastlane](https://github.com/brody424/TIL/tree/main/ios/cicd_1.md)

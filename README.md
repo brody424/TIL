@@ -22,7 +22,7 @@
     * [Xcode 14.3이상 PhaseScriptExecution [CP]\ Embed\ Pods\ Frameworks 아카이브 에러](https://github.com/brody424/TIL/blob/main/ios/error/xcode_14_3_error.md)
 
 * ETC
-    * [WWDC 2023 개인적인 생각 끄적이기](https://github.com/brody424/TIL/blob/main/etc/wwdc_2023_personal_thoughts.md)
+    * [WWDC 2023 개인적인 생각 끄적이기](https://github.com/brody424/TIL/blob/main/ios/etc/wwdc_2023_personal_thoughts.md)
 
 <br/><br/>
 

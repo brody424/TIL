@@ -7,7 +7,10 @@
 <br/><br/>
 
 # 사이드 프로젝트
+
+## 면접사전
 * [면접사전 1차 개발 회고](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary_1.md)
+* [면접사전 1차 고도화 목표](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary_2.md)
 
 <br/><br/>
 
@@ -28,7 +31,7 @@
 
 # Apple Article 
 
-## Xcode Cloude
+## Xcode Cloud
 - [Xcode Cloud를 통한 지속적 통합 및 배포 정보](https://github.com/brody424/TIL/tree/main/ios/documentation/About_continuous_integration_and_delivery_with_Xcode_Cloud.md)
 - [Xcode Cloud 사용을 위한 요구 사항](https://github.com/brody424/TIL/tree/main/ios/documentation/Requirements_for_using_Xcode_Cloud.md)
 - [Xcode Cloud의 workflow 구성하는 방법](https://github.com/brody424/TIL/tree/main/ios/documentation/Configuring_your_first_Xcode_Cloud_workflow.md)

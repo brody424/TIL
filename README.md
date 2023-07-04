@@ -6,8 +6,12 @@
 
 <br/><br/>
 
-# 사이드 프로젝트
+# ING ~ 23.07.14(목표)
+- 면접사전 1차 고도화
 
+<br/><br/>
+
+# 사이드 프로젝트
 ## 면접사전
 * [면접사전 1차 개발 회고](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary_1.md)
 * [면접사전 1차 고도화 목표](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary_2.md)

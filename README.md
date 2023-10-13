@@ -44,7 +44,9 @@
 
 <br/><br/>
 
-# ETC
+# 개발자(개인앱) 회고 
+- [2023년 10월 13일](https://github.com/brody424/TIL/tree/main/ios/diary/231013.md)
+
 
 <br/><br/><br/><br/><br/>
 Default URL https://github.com/brody424/TIL/blob/main/

@@ -19,6 +19,9 @@
 <br/><br/>
 
 # iOS
+* Swift
+    * [Property Wrapper](https://github.com/brody424/TIL/tree/main/ios/til/property_wrapper.md) 
+
 * iOS
     * [CI/CD - 1 : Xcode cloud vs fastlane](https://github.com/brody424/TIL/tree/main/ios/cicd_1.md)
     * [CI/CD - 2 : Xcode Cloud 적용 후기](https://github.com/brody424/TIL/tree/main/ios/cicd_2.md)

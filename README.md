@@ -1,6 +1,7 @@
 # 끄적잉..
 * 걍 내가 개발하면서 느끼는거 끄적여보자.. TIL도 과한거 같은 느낌..
 * 가볍게 공부한 내용을 정리해보자.
+* 틀린내용 있어도 일단 내가 이해한만큼!
 * 어느정도 검증이 된거 같다면 블로그에 올리는 걸로..
 * 블로그에 쓰려면 검증해야 되는데 피로감이 크니까 일단 끄적대보자!
 
@@ -30,6 +31,9 @@
 
 * 오류 수정
     * [Xcode 14.3이상 PhaseScriptExecution [CP]\ Embed\ Pods\ Frameworks 아카이브 에러](https://github.com/brody424/TIL/blob/main/ios/error/xcode_14_3_error.md)
+
+* SwiftUI & Combine
+    * [RxSwift -> Combine](https://github.com/brody424/TIL/blob/main/ios/til/combine_swiftui/rxswift_combine_convert.md)
 
 * ETC
     * [WWDC 2023 개인적인 생각 끄적이기](https://github.com/brody424/TIL/blob/main/ios/etc/wwdc_2023_personal_thoughts.md)

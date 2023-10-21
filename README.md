@@ -17,6 +17,10 @@
 * [면접사전 1차 고도화 목표](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary_2.md)
 * [면접사전 1차 개발 회고](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary_1.md)
 
+## TPLT Camera (가제))
+* [Agenda](https://github.com/brody424/TIL/blob/main/ios/sideproject/tplt/agenda.md)
+* [일단 개발하고 나중에 공부할 List](https://github.com/brody424/TIL/blob/main/ios/sideproject/tplt/first_develop_after_study_list)
+
 <br/><br/>
 
 # iOS
@@ -52,7 +56,8 @@
 <br/><br/>
 
 # 개발자(개인앱) 회고 
-- [2023년 10월 13일](https://github.com/brody424/TIL/tree/main/ios/diary/231013.md)
+- [2023.10.20](https://github.com/brody424/TIL/tree/main/ios/diary/231020.md)
+- [2023.10.13](https://github.com/brody424/TIL/tree/main/ios/diary/231013.md)
 
 
 <br/><br/><br/><br/><br/>

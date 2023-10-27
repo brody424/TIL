@@ -41,7 +41,7 @@
 
 * ETC
     * [WWDC 2023 개인적인 생각 끄적이기](https://github.com/brody424/TIL/blob/main/ios/etc/wwdc_2023_personal_thoughts.md)
-
+    * [GCD 공부하다 Thread 관련 궁금한거 테스트해보기](https://github.com/brody424/TIL/tree/main/ios/til/concurrent/thread_question.md)
 <br/><br/>
 
 # Apple Article 

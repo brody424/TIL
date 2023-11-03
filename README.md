@@ -56,6 +56,7 @@
 <br/><br/>
 
 # 개발자 회고 
+- [2023.11.03 : 면접사전 유저 긴급 QA!! 긴급배포!!](https://github.com/brody424/TIL/tree/main/ios/diary/231103.md)
 - [2023.10.27 : 뭐라도 했으니 다행이다ㅋㅋ](https://github.com/brody424/TIL/tree/main/ios/diary/231027.md)
 - [2023.10.20 : 뭐라도 해보자!](https://github.com/brody424/TIL/tree/main/ios/diary/231020.md)
 - [2023.10.13 : 이대로는 안된다!](https://github.com/brody424/TIL/tree/main/ios/diary/231013.md)

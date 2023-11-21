@@ -12,10 +12,10 @@
 
 # 사이드 프로젝트
 ## 면접사전
-* [면접사전 1.0.3 배포](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary_4.md)
-* [면접사전 1.0.2 배포 완료(1.0.3 리스트업)](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary_3.md)
-* [면접사전 1차 고도화 목표](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary_2.md)
-* [면접사전 1차 개발 회고](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary_1.md)
+* [면접사전 1.0.3 배포](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_4.md)
+* [면접사전 1.0.2 배포 완료(1.0.3 리스트업)](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_3.md)
+* [면접사전 1차 고도화 목표](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_2.md)
+* [면접사전 1차 개발 회고](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_1.md)
 
 ## TPLT Camera (가제))
 * [Agenda](https://github.com/brody424/TIL/blob/main/ios/sideproject/tplt/agenda.md)
@@ -38,7 +38,7 @@
 
 * SwiftUI & Combine
     * [RxSwift -> Combine](https://github.com/brody424/TIL/blob/main/ios/til/combine_swiftui/rxswift_combine_convert.md)
-    * [@State, @Binding, @ObservedObject](https://github.com/brody424/TIL/blob/main/ios/til/combine_swiftui/state_binding_observedObject.md)
+    * [@State, @Binding](https://github.com/brody424/TIL/blob/main/ios/til/combine_swiftui/state_binding_observedObject.md)
 * ETC
     * [WWDC 2023 개인적인 생각 끄적이기](https://github.com/brody424/TIL/blob/main/ios/etc/wwdc_2023_personal_thoughts.md)
     * [GCD 공부하다 Thread 관련 궁금한거 테스트해보기](https://github.com/brody424/TIL/tree/main/ios/til/concurrent/thread_question.md)

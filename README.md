@@ -47,8 +47,13 @@
 # Apple Article 
 
 ## SwiftUI
-- [State 작성중..](https://github.com/brody424/TIL/tree/main/ios/documentation/SwiftUI_State.md)
-- [Binding](https://github.com/brody424/TIL/tree/main/ios/documentation/SwiftUI_Binding.md)
+- [@State 작성중..](https://github.com/brody424/TIL/tree/main/ios/documentation/SwiftUI_Combine/SwiftUI_State.md)
+- [@Binding](https://github.com/brody424/TIL/tree/main/ios/documentation/SwiftUI_Combine/SwiftUI_Binding.md)
+
+## Combine
+- [@Published](https://github.com/brody424/TIL/tree/main/ios/documentation/SwiftUI_Combine/Published.md)
+
+
 ## Xcode Cloud
 - [Xcode Cloud를 통한 지속적 통합 및 배포 정보](https://github.com/brody424/TIL/tree/main/ios/documentation/About_continuous_integration_and_delivery_with_Xcode_Cloud.md)
 - [Xcode Cloud 사용을 위한 요구 사항](https://github.com/brody424/TIL/tree/main/ios/documentation/Requirements_for_using_Xcode_Cloud.md)
@@ -59,7 +64,8 @@
 <br/><br/>
 
 # 개발자 회고 
-- [2023.11.19: 집중이 되지 않는 총체적 난국..?](https://github.com/brody424/TIL/tree/main/ios/diary/231110.md)
+- [2023.11.26: 개발은 막혔지만 개발이 재밌어 지는 재밌는 경험](https://github.com/brody424/TIL/tree/main/ios/diary/231126.md)
+- [2023.11.19: 집중이 되지 않는 총체적 난국..?](https://github.com/brody424/TIL/tree/main/ios/diary/231119.md)
 - [2023.11.10: 고민이 많은 요즘.. 개발이 손에 안잡힌다.](https://github.com/brody424/TIL/tree/main/ios/diary/231110.md)
 - [2023.11.03 : 면접사전 유저 긴급 QA!! 긴급배포!!](https://github.com/brody424/TIL/tree/main/ios/diary/231103.md)
 - [2023.10.27 : 뭐라도 했으니 다행이다ㅋㅋ](https://github.com/brody424/TIL/tree/main/ios/diary/231027.md)

@@ -1,6 +1,13 @@
 # UITableViewDiffableDataSource와 RxSwift를 사용하는데 tableView.rx.itemSelected를 사용하면 indexPath의 값이 이상하게 나오는 이슈
 
-테이블뷰의 LoadMore를 구현중에 발생한 이슈로 데이터를 추가로 받아와서 append후 Snapshot의 apply를 하면 cell이 꼬이는것 같다.  
+테이블뷰의 LoadMore를 구현중에 발생한 이슈로 데이터를 추가로 받아와서 append후 Snapshot의 apply를 하면 cell의 indexPath가 꼬이는 현상이 발생한다.
+
+<img src="https://github.com/brody424/TIL/assets/15370950/8c615f9f-d972-49f2-8a67-110c6e23b136" width="200">
+
+위의 이미지에서 이름과 IndexPath.row를 보여주고 있는데 리로드하는 과정에서 뜬금없이 84번이 88번과 89번에 껴있는데,  
+섞이는 애니메이션이 발생하면서 이런현상이 발생한다.  
+
+---
 
 기존에 RxDataSource를 사용했을 때는 아래처럼 개발했다.
 ```Swift

@@ -17,7 +17,7 @@
 * [면접사전 1차 고도화 목표](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_2.md)
 * [면접사전 1차 개발 회고](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_1.md)
 
-## TPLT Camera (가제))
+## Guidey Camera
 * [Agenda](https://github.com/brody424/TIL/blob/main/ios/sideproject/tplt/agenda.md)
 * [일단 개발하고 나중에 공부할 List](https://github.com/brody424/TIL/blob/main/ios/sideproject/tplt/first_develop_after_study_list)
 
@@ -65,6 +65,7 @@
 <br/><br/>
 
 # 개발자 회고 
+- [2023.12.03: TPLT 이름 정함!](https://github.com/brody424/TIL/tree/main/ios/diary/231203.md)
 - [2023.11.26: 개발은 막혔지만 개발이 재밌어 지는 재밌는 경험](https://github.com/brody424/TIL/tree/main/ios/diary/231126.md)
 - [2023.11.19: 집중이 되지 않는 총체적 난국..?](https://github.com/brody424/TIL/tree/main/ios/diary/231119.md)
 - [2023.11.10: 고민이 많은 요즘.. 개발이 손에 안잡힌다.](https://github.com/brody424/TIL/tree/main/ios/diary/231110.md)

@@ -65,6 +65,7 @@
 <br/><br/>
 
 # 개발자 회고 
+- [2023.12.17: 태국 한달살기 시작!](https://github.com/brody424/TIL/tree/main/ios/diary/231217.md)
 - [2023.12.03: TPLT 이름 정함!](https://github.com/brody424/TIL/tree/main/ios/diary/231203.md)
 - [2023.11.26: 개발은 막혔지만 개발이 재밌어 지는 재밌는 경험](https://github.com/brody424/TIL/tree/main/ios/diary/231126.md)
 - [2023.11.19: 집중이 되지 않는 총체적 난국..?](https://github.com/brody424/TIL/tree/main/ios/diary/231119.md)

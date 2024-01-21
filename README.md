@@ -63,8 +63,14 @@
 
 
 <br/><br/>
-
-# 개발자 회고 
+ 
+# 개발자 회고
+## 연별 회고
+- [2024 1분기 목표]()
+- [2023 회고](https://github.com/brody424/TIL/tree/main/ios/diary/retrospect_2023.md)
+## 한달살기 회고
+- [23.12.04 ~ 24.01.11 : 태국 한달살기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/2023_thailand_worcation.md)
+## 주별 회고
 - [2023.12.17: 태국 한달살기 시작!](https://github.com/brody424/TIL/tree/main/ios/diary/231217.md)
 - [2023.12.03: TPLT 이름 정함!](https://github.com/brody424/TIL/tree/main/ios/diary/231203.md)
 - [2023.11.26: 개발은 막혔지만 개발이 재밌어 지는 재밌는 경험](https://github.com/brody424/TIL/tree/main/ios/diary/231126.md)
@@ -74,6 +80,7 @@
 - [2023.10.27 : 뭐라도 했으니 다행이다ㅋㅋ](https://github.com/brody424/TIL/tree/main/ios/diary/231027.md)
 - [2023.10.20 : 뭐라도 해보자!](https://github.com/brody424/TIL/tree/main/ios/diary/231020.md)
 - [2023.10.13 : 이대로는 안된다!](https://github.com/brody424/TIL/tree/main/ios/diary/231013.md)
+
 
 ## 나중에 계속 작성해야 될 것.
 - State 문서 공부 (@Observable 공부하고 계속 작성)

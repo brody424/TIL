@@ -66,11 +66,12 @@
  
 # 개발자 회고
 ## 연별 회고
-- [2024 1분기 목표]()
-- [2023 회고](https://github.com/brody424/TIL/tree/main/ios/diary/retrospect_2023.md)
+- [2024 1분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_1_4_okr.md)
+- [2023 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/retrospect_2023.md)
 ## 한달살기 회고
-- [23.12.04 ~ 24.01.11 : 태국 한달살기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/2023_thailand_worcation.md)
+- [23.12.04 ~ 24.01.11 : 태국 한달살기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2023_thailand_worcation.md)
 ## 주별 회고
+- [2024.02.04: 마음 다잡고 2024 1분기 시작!!!](https://github.com/brody424/TIL/tree/main/ios/diary/240204.md)
 - [2023.12.17: 태국 한달살기 시작!](https://github.com/brody424/TIL/tree/main/ios/diary/231217.md)
 - [2023.12.03: TPLT 이름 정함!](https://github.com/brody424/TIL/tree/main/ios/diary/231203.md)
 - [2023.11.26: 개발은 막혔지만 개발이 재밌어 지는 재밌는 경험](https://github.com/brody424/TIL/tree/main/ios/diary/231126.md)

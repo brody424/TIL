@@ -40,7 +40,6 @@ State의 기본 값에 액세스 하려면 WrappedValue 속성을 사용합니�
 
 ## 하위뷰(subview)들과 State 공유
 State 프로퍼티를 subview로 전달하면 SwiftUI는 container view에서 값이 변경될때마다 subview를 업데이트 합니다.  
-하지만 subview에서 값을 수정할 수는 없습니다.  
 subview에서 상태의 저장된 값을 수정할 수 있도록 하려면 State 대신에 Binding을 전달해야 합니다.  
 
 예를들어 위 예제의 PlayButton에서 isPlaying State를 제거하고 Binding으로 변경합니다.

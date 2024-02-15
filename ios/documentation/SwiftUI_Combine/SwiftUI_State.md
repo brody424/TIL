@@ -59,7 +59,7 @@ struct PlayButton: View {
 State의 projectedValue에 액세스하여 State 값에 대한 바인딩을 가져옵니다. 이 바인딩은 속성 이름 앞에 $ 기호를 붙이면 얻을 수 있습니다.
 
 ```Swift
-struct PLayuerView: View {
+struct PlayerView: View {
     @State private var isPlaying: Bool = false // Create the state here now
     
     var body: some View {

@@ -47,10 +47,10 @@
 
 # Apple Article 
 
-## SwiftUI
+## SwiftUI 
 - [@State 작성중..](https://github.com/brody424/TIL/tree/main/ios/documentation/SwiftUI_Combine/SwiftUI_State.md)
 - [@Binding](https://github.com/brody424/TIL/tree/main/ios/documentation/SwiftUI_Combine/SwiftUI_Binding.md)
-
+- [Observable](https://github.com/brody424/TIL/tree/main/ios/documentation/SwiftUI_Combine/SwiftUI_Observable.md)
 ## Combine
 - [@Published](https://github.com/brody424/TIL/tree/main/ios/documentation/SwiftUI_Combine/Published.md)
 

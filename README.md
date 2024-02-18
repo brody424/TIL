@@ -71,6 +71,7 @@
 ## 한달살기 회고
 - [23.12.04 ~ 24.01.11 : 태국 한달살기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2023_thailand_worcation.md)
 ## 주별 회고
+- [2024.02.08: 빡코딩중!!!!](https://github.com/brody424/TIL/tree/main/ios/diary/240218.md)
 - [2024.02.04: 마음 다잡고 2024 1분기 시작!!!](https://github.com/brody424/TIL/tree/main/ios/diary/240204.md)
 - [2023.12.17: 태국 한달살기 시작!](https://github.com/brody424/TIL/tree/main/ios/diary/231217.md)
 - [2023.12.03: TPLT 이름 정함!](https://github.com/brody424/TIL/tree/main/ios/diary/231203.md)

@@ -10,7 +10,7 @@ struct State<Value>
 
 ## OverView
 value 타입을 뷰 계층구조에 저장할 때, 해당 값의 최신 및 정확한 버전을 유지하기 위해 State를 사용합니다.  
-프로퍼티 선언에 @State 속성을 적용하고 초기 값을 제공하여 App, Scene, View에서 상태값을 생성하세요.
+프로퍼티 선언에 @State 속성을 적용하고 초기 값을 제공하여 App, Scene, View에서 상태값을 생성하세요.  
 SwiftUI에서 제공하는 storage management와 충돌할 수 있는 memberwise initializer에서 설정되는 것을 방지하기 위해서 State는 Private로 선언하세요.  
 
 ```Swift

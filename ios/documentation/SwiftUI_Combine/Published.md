@@ -1,6 +1,6 @@
 # Published
-### Property marked와 attribute를 게하는 타입입니다.
-
+### Property marked와 attribute를 게시하는 타입입니다.  A type that publishes a property marked with an attribute.
+ 
 ```Swift
 @propertyWrapper
 struct Published<Value>
@@ -54,4 +54,5 @@ Now Weather Temperature : 30.0
 <br/>
 
 > ### Important
-> @Published 속성은 클래스에 제한되어 있습니다. struct과 같은 클래스가 아닌 타입의 속성으로 사용하지 마세요.
+> @Published 속성은 클래스에 제한되어 있습니다. struct과 같은 클래스가 아닌 타입의 속성으로 사용하지 마세요.   
+>  .

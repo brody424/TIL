@@ -1,25 +1,10 @@
 # 끄적잉..
 * 걍 내가 개발하면서 느끼는거 끄적여보자.. TIL도 과한거 같은 느낌..
+* 나중에 기억이 가물가물할 때 찾아보는 용도!?
 * 가볍게 공부한 내용을 정리해보자.
 * 틀린내용 있어도 일단 내가 이해한만큼!
 * 어느정도 검증이 된거 같다면 블로그에 올리는 걸로..
 * 블로그에 쓰려면 검증해야 되는데 피로감이 크니까 일단 끄적대보자!
-
-<br/><br/>
-
-
-<br/><br/>
-
-# 사이드 프로젝트
-## 면접사전
-* [면접사전 1.0.3 배포](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_4.md)
-* [면접사전 1.0.2 배포 완료(1.0.3 리스트업)](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_3.md)
-* [면접사전 1차 고도화 목표](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_2.md)
-* [면접사전 1차 개발 회고](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_1.md)
-
-## Guidey Camera
-* [Agenda](https://github.com/brody424/TIL/blob/main/ios/sideproject/tplt/agenda.md)
-* [일단 개발하고 나중에 공부할 List](https://github.com/brody424/TIL/blob/main/ios/sideproject/tplt/first_develop_after_study_list)
 
 <br/><br/>
 
@@ -62,11 +47,27 @@
 - [Xcode Cloud의 workflow 구성하는 방법](https://github.com/brody424/TIL/tree/main/ios/documentation/Configuring_your_first_Xcode_Cloud_workflow.md)
 - [Xcode Cloud에서 종속성을 사용할 수  있도록 만들기](https://github.com/brody424/TIL/tree/main/ios/documentation/Making_dependencies_available_to_Xcode_Cloud.md)
 
+<br/><br/>
+
+# 사이드 프로젝트
+## 면접사전
+* [면접사전 1.0.3 배포](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_4.md)
+* [면접사전 1.0.2 배포 완료(1.0.3 리스트업)](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_3.md)
+* [면접사전 1차 고도화 목표](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_2.md)
+* [면접사전 1차 개발 회고](https://github.com/brody424/TIL/blob/main/ios/sideproject/interview_dictionary/interview_dictionary_1.md)
+
+## Guidey Camera
+* [보류결정](https://github.com/brody424/TIL/blob/main/ios/sideproject/tplt/hold.md)
+* [Agenda](https://github.com/brody424/TIL/blob/main/ios/sideproject/tplt/agenda.md)
+* [일단 개발하고 나중에 공부할 List](https://github.com/brody424/TIL/blob/main/ios/sideproject/tplt/first_develop_after_study_list)
 
 <br/><br/>
- 
+
+
 # 개발자 회고
 ## 연별 회고
+- [2024 2분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_2_quarter_ork.md)
+- [2024 1분기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_1_quarter_feedback.md)
 - [2024 1분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_1_4_okr.md)
 - [2023 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/retrospect_2023.md)
 ## 한달살기 회고

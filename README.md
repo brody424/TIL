@@ -11,7 +11,7 @@
 # iOS
 * Swift
     * [Property Wrapper](https://github.com/brody424/TIL/tree/main/ios/til/property_wrapper.md) 
-
+    * [Decimal Type](https://github.com/brody424/TIL/blob/main/ios/til/swift_decimal_type.md)
 * iOS
     * [딥링크(URI Scheme, Universal Link, Dynamic Link)](https://github.com/brody424/TIL/blob/main/ios/til/uri_scheme_universal_link.md)
     * [CI/CD - 1 : Xcode cloud vs fastlane](https://github.com/brody424/TIL/tree/main/ios/cicd_1.md)

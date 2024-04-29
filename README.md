@@ -13,6 +13,7 @@
     * [Property Wrapper](https://github.com/brody424/TIL/tree/main/ios/til/property_wrapper.md) 
     * [Decimal Type](https://github.com/brody424/TIL/blob/main/ios/til/swift_decimal_type.md)
 * iOS
+    * [UIViewController에서 제공하는 self.view를 변경하고 싶다면?](https://github.com/brody424/TIL/blob/main/ios/til/viewcontroller_view_change.md)
     * [딥링크(URI Scheme, Universal Link, Dynamic Link)](https://github.com/brody424/TIL/blob/main/ios/til/uri_scheme_universal_link.md)
     * [CI/CD - 1 : Xcode cloud vs fastlane](https://github.com/brody424/TIL/tree/main/ios/cicd_1.md)
     * [CI/CD - 2 : Xcode Cloud 적용 후기](https://github.com/brody424/TIL/tree/main/ios/cicd_2.md)
@@ -66,6 +67,7 @@
 
 
 # 개발자 회고
+- [개발자는 우매함의 봉우리 Life Cycle를 통해서 성장한다.](https://github.com/brody424/TIL/tree/main/ios/diary/mount_stupid.md)
 ## 연별 회고
 - [2024 2분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_2_quarter_ork.md)
 - [2024 1분기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_1_quarter_feedback.md)

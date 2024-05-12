@@ -31,7 +31,7 @@ Swift 5.1에 추가된 기능인 Property Wrapper이라고 한다. (19년도에 
 <img width="400" alt="스크린샷 2023-10-13 오후 9 03 54" src="https://github.com/brody424/TIL/assets/15370950/a8883fb5-7fdb-4f4c-8e7b-533df727a990">  
 
 제드님 블로그를 보고 Upper 을 Lower로 바꿔보았다 ㅋㅋ.  
-- 커스텀하게 만들 때는 @propertyWapper를 쓰면 된다.  
+- 커스텀하게 만들 때는 @propertyWrapper를 쓰면 된다.  
 - init은 있어도 되고 없어도 된다. (없으면 초기값이 없긴함.)
 - 초기값을 넣기위해 init을 쓰려면 init(wrappedValue) 형태로 사용해야 된다. 
 <br/><br/><br/>

@@ -13,6 +13,7 @@
     * [Property Wrapper](https://github.com/brody424/TIL/tree/main/ios/til/property_wrapper.md) 
     * [Decimal Type](https://github.com/brody424/TIL/blob/main/ios/til/swift_decimal_type.md)
 * iOS
+    * [GCD 정리](https://github.com/brody424/TIL/blob/main/ios/til/dispatch_queue.md)
     * [Target, Scheme 알아보기](https://github.com/brody424/TIL/blob/main/ios/til/target_scheme.md)
     * [UIViewController에서 제공하는 self.view를 변경하고 싶다면?](https://github.com/brody424/TIL/blob/main/ios/til/viewcontroller_view_change.md)
     * [딥링크(URI Scheme, Universal Link, Dynamic Link)](https://github.com/brody424/TIL/blob/main/ios/til/uri_scheme_universal_link.md)

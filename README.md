@@ -70,14 +70,16 @@
 
 # 개발자 회고
 - [개발자는 우매함의 봉우리 Life Cycle를 통해서 성장한다.](https://github.com/brody424/TIL/tree/main/ios/diary/mount_stupid.md)
-## 연별 회고
-- [2024 2분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_2_quarter_ork.md)
+## Long Term 회고
+- [2024 3분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_q3_ork.md)
+- [2024 2분기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_q2_feedback.md)
+- [2024 2분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_q2_ork.md)
 - [2024 1분기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_1_quarter_feedback.md)
 - [2024 1분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_1_4_okr.md)
 - [2023 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/retrospect_2023.md)
 ## 한달살기 회고
 - [23.12.04 ~ 24.01.11 : 태국 한달살기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2023_thailand_worcation.md)
-## 주별 회고
+## WIL
 - [2024.05.13: 퇴사 그후]
 - [2024.04.14: 첫 라이브코딩!](https://github.com/brody424/TIL/tree/main/ios/diary/240414.md)
 - [2024.03.03: iOS 개발자 맞아??](https://github.com/brody424/TIL/tree/main/ios/diary/240303.md)

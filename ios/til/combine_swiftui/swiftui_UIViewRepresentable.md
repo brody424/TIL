@@ -13,7 +13,7 @@ public struct Button<Label> : View where Label : View { ... }
 
 그럴때 사용하는것이 **UIViewRepresentable** 이다.
 
-UIView를 SwiftUI 컴포넌트(?)로 변환할 수 있게 해주는 **프로토콜** 이다.
+UIView를 SwiftUI View로 변환할 수 있게 해주는 **프로토콜** 이다.
 
 
 

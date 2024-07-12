@@ -14,7 +14,7 @@ ScrollView + Paging 기능이 iOS17에서 쉽게 동작됨.
 헬게이트 오픈!  
 
 ```Swift
-    UIScrollView.appearance().isPagingEnabled = true
+UIScrollView.appearance().isPagingEnabled = true
 ```
 위의 코드를 사용하고 있지만 Current Index 가져오는 코드를 넣으면 페이징이 안됨 ㅂㄷㅂㄷ    
 결국은 또 Custom UIKit을 써야 되는 건가..?   
@@ -25,7 +25,7 @@ Paging 안되서 UIKit으로 개발하려는데 TCA랑 엮이는것도 잘 안�
 @Bindable 쓰고 싶은데 iOS 17부터 쓸수 있는 모양이다.. ㅂㄷㅂㄷㅂㄷㅂㄷㅂㄷㅂㄷㅂㄷㅂㄷㅂㄷ   
 꺾인다 꺾여!
 
-## 4. TCA + SwiftUI 미친다
+## 4. TCA + SwiftUI 러닝커브가 생각보다 높다
 TCA 버전이 안맞아서 에러가 나는지 iOS 버전이 안맞아서 에러가 나는지 찾기 너무 빡심.  
 차라리 TCA를 버렸으면 이정도는 아니였을 수도..?  
 격변하는 TCA, SwiftUI 중간에서 헤엄치는 나를 발견하고 헛웃음이 나왔다.  
@@ -33,3 +33,9 @@ TCA 버전이 안맞아서 에러가 나는지 iOS 버전이 안맞아서 에러
 ## 5. 프리뷰 새로운 윈도우창에 못하나?
 고정된 프리뷰를 새로운 윈도우창에 고정해놓고 싶다.  
 프리뷰 사이즈를 고정해주던지!!!
+
+## 6. Print는 왜 안됨..?
+```Swift
+let _ = print("AA")
+```
+이런식으로 쓰라고 하는데 굳이..?

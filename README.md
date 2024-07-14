@@ -80,7 +80,7 @@
 ## 한달살기 회고
 - [23.12.04 ~ 24.01.11 : 태국 한달살기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2023_thailand_worcation.md)
 ## WIL
-- [2024.05.13: 퇴사 그후]
+- [2024.07.14: 3분기 시작!](https://github.com/brody424/TIL/tree/main/ios/diary/240714.md)
 - [2024.04.14: 첫 라이브코딩!](https://github.com/brody424/TIL/tree/main/ios/diary/240414.md)
 - [2024.03.03: iOS 개발자 맞아??](https://github.com/brody424/TIL/tree/main/ios/diary/240303.md)
 - [2024.02.25: 코인 서버 빡코딩중..2](https://github.com/brody424/TIL/tree/main/ios/diary/240225.md)

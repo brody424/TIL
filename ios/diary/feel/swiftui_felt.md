@@ -9,6 +9,12 @@
 ## 2. 버튼 touched 상태이 자동으로 되어있어서 UX적으로 좋다.
 UIKit에서는 내가 직접 구현해줬어야 된거 같은데 자동으로 되어있어서 아주 굿.
 
+## 3. TCA action 해결하기 쉬운듯
+Reducer를 분리해서 각각의 Subview를 그릴수 있고 
+subview의 action은 부모뷰에서 처리하거나 subview에서 처리하는것을 선택할 수 있는것이 편한듯.
+cell의 이벤트를 부모뷰로 어떻게 보낼지 걱정 안해도 되서 좋다.
+그냥 action을 보내고 그 액션을 부모view에서 처리하면 되니까편함.
+근데 2중 처리가 될 수 있어서 조심하긴 해야될듯.
 
 # 나빴던점
 
@@ -56,3 +62,12 @@ let _ = print("AA")
 ## 8. 생각보다 적은 레퍼런스들...
 참고할게 생각보다 많지 않다.  내가 검색을 잘 못하는 것일수도 있지만 자료가 많이 부족한 느낌.  
 거기다가 계속 발전중이여서 스택오버플로의 답변에서 안되는게 많이 존재... GPT도 옛날 내용을 알려줘서 도움이 안됨...
+
+## 9. 컴바인님...?
+button.rx.tap 이 없어..?  
+URLSession에는 사용하기 편하더니 왜 UIKit에는 없는거죠..?  
+https://gist.github.com/d-date/735fa126e37ed88ff9d0011f6dc0510b   
+위의 링크를 사용해서 rx처럼 쓰는데 흐음.. UIKit과 combine 브릿지가 필요하다니...
+
+## 10. Preview에서 @Environment(\.dismiss) var dismiss 가 있고 dismiss 호출하면 프리뷰크래시
+Environment을 제공해주지 않는데 사용한다고 하니까 preview에서 크래시 발생하는 듯

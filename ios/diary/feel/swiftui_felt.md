@@ -71,3 +71,7 @@ https://gist.github.com/d-date/735fa126e37ed88ff9d0011f6dc0510b
 
 ## 10. Preview에서 @Environment(\.dismiss) var dismiss 가 있고 dismiss 호출하면 프리뷰크래시
 Environment을 제공해주지 않는데 사용한다고 하니까 preview에서 크래시 발생하는 듯
+
+# 의문
+## 1. TCA .run에서 state 값에 접근할 수 없음
+왜그럴까? set을 안되게 하는것도 이해가 안되는데 get도 안되네.

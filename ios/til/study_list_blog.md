@@ -11,6 +11,7 @@
 # 공부할 키워드
  - SwiftData
  - Macro
+ - Provisioning File
  - @Sendable
  - @MainActor
  - actor
@@ -19,3 +20,9 @@
     - 스크롤뷰 current Index 하는데 사용했는데 무슨 원리인지?
 - Package Swift5.9에 추가된!
 - addChild
+
+
+# 연습해볼 키워드
+ - Tuist
+ - Fastlane
+    - Github Action 엮어서 자동 배포 ㄱㄱ

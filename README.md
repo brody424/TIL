@@ -80,6 +80,8 @@
 ## 한달살기 회고
 - [23.12.04 ~ 24.01.11 : 태국 한달살기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2023_thailand_worcation.md)
 ## WIL
+- [2024.08.04: 쇼츠를 다 만들고 집중이 안된다 🫠](https://github.com/brody424/TIL/tree/main/ios/diary/240804.md)
+- [2024.07.28: 할일이 끊임없이 나온다!](https://github.com/brody424/TIL/tree/main/ios/diary/240728.md)
 - [2024.07.21: 나쁘지 않았던 일주일! 주말은 대전 여행 🚄](https://github.com/brody424/TIL/tree/main/ios/diary/240721.md)
 - [2024.07.14: 3분기 시작!](https://github.com/brody424/TIL/tree/main/ios/diary/240714.md)
 - [2024.04.14: 첫 라이브코딩!](https://github.com/brody424/TIL/tree/main/ios/diary/240414.md)
@@ -98,8 +100,10 @@
 - [2023.10.13 : 이대로는 안된다!](https://github.com/brody424/TIL/tree/main/ios/diary/231013.md)
 
 
-## 나중에 계속 작성해야 될 것.
-- State 문서 공부 (@Observable 공부하고 계속 작성)
+## 나중에 정리해서 작성할 목록
+- [SwiftUI + TCA 로 개발하면서 느끼고 있는것들](https://github.com/brody424/TIL/tree/main/ios/diary/feel/swiftui_felt.md)
+- [TCA ifLet vs Scope](https://github.com/brody424/TIL/tree/main/ios/diary/feel/tca_iflet_scope.md)
+- [Firestore를 사용하여 개인앱을 만들면서 느끼고 있는걸듯](https://github.com/brody424/TIL/tree/main/ios/diary/feel/firestore_felt.md)
 
 <br/><br/><br/><br/><br/>
 Default URL https://github.com/brody424/TIL/blob/main/

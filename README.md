@@ -80,6 +80,7 @@
 ## 한달살기 회고
 - [23.12.04 ~ 24.01.11 : 태국 한달살기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2023_thailand_worcation.md)
 ## WIL
+- [2024.09.01: Project-G할 시간이 없어용!](https://github.com/brody424/TIL/tree/main/ios/diary/240901.md)
 - [2024.08.25: 특강 2회차 완!. 노션보단 PPT인가..?](https://github.com/brody424/TIL/tree/main/ios/diary/240825.md)
 - [2024.08.18: 스위치온 다이어트 시작! 힘이 없다 ㄷㄷ](https://github.com/brody424/TIL/tree/main/ios/diary/240818.md)
 - [2024.08.11: 맥북이 고장나서 iMac으로 개발중... 넘나 느린것 🥲](https://github.com/brody424/TIL/tree/main/ios/diary/240811.md)

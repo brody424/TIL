@@ -30,6 +30,7 @@
     * [RxSwift -> Combine](https://github.com/brody424/TIL/blob/main/ios/til/combine_swiftui/rxswift_combine_convert.md)
     * [@State, @Binding](https://github.com/brody424/TIL/blob/main/ios/til/combine_swiftui/state_binding_observedObject.md)
 * ETC
+    * [Github PR Review AI를 찾아서!](https://github.com/brody424/TIL/blob/main/ios/etc/pr_review_ai.md)
     * [WWDC 2023 개인적인 생각 끄적이기](https://github.com/brody424/TIL/blob/main/ios/etc/wwdc_2023_personal_thoughts.md)
     * [GCD 공부하다 Thread 관련 궁금한거 테스트해보기](https://github.com/brody424/TIL/tree/main/ios/til/concurrent/thread_question.md)
 <br/><br/>

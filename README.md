@@ -72,6 +72,8 @@
 # 개발자 회고
 - [개발자는 우매함의 봉우리 Life Cycle를 통해서 성장한다.](https://github.com/brody424/TIL/tree/main/ios/diary/mount_stupid.md)
 ## Long Term 회고
+- [2024 4분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_q4_ork.md)
+- [2024 3분기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_q3_feedback.md)
 - [2024 3분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_q3_ork.md)
 - [2024 2분기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_q2_feedback.md)
 - [2024 2분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_q2_ork.md)
@@ -81,6 +83,7 @@
 ## 한달살기 회고
 - [23.12.04 ~ 24.01.11 : 태국 한달살기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2023_thailand_worcation.md)
 ## WIL
+- [2024.10.06: 튜터 4기 종료! 강의 추가 촬영 종료! 여행시작!](https://github.com/brody424/TIL/tree/main/ios/diary/241006.md)
 - [2024.09.29: 강의촬영 쉽지 않다..! 정신이 없다!!!](https://github.com/brody424/TIL/tree/main/ios/diary/240929.md)
 - [2024.09.22: 2주치 몰아쓰기! 강의 자료 만들기 완료! AI 코드리뷰 찾아보는중!](https://github.com/brody424/TIL/tree/main/ios/diary/240922.md)
 - [2024.09.08: 제주도로 출장 후 강의의 연속이다!!!](https://github.com/brody424/TIL/tree/main/ios/diary/240908.md)

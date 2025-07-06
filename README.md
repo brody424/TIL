@@ -86,10 +86,8 @@
 
 ## Long Term 회고
 
--   [2025 2분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2025_q2_ork.md)
--   [2025 1분기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2025_q1_feedback.md)
--   2025 1분기 목표 : 누락. (2024 4분기 목표와 동일)
--   2024 4분기 회고: 누락
+-   [2025 2분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2025_q2_okr.md)
+-   [2024.04~2025 1분기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2025_q1_feedback.md)
 -   [2024 4분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_q4_ork.md)
 -   [2024 3분기 회고](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_q3_feedback.md)
 -   [2024 3분기 목표](https://github.com/brody424/TIL/tree/main/ios/diary/longterm/2024_q3_ork.md)
